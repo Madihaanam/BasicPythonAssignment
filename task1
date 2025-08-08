@@ -1,0 +1,10 @@
+X=int(input("Enter the first number:"))
+Y=int(input("Enter the secoind number:"))
+sum=X+Y
+difference=X-Y
+product=X*Y
+division=X/Y
+print("Addition:",sum)
+print("Difference:",difference)
+print("Multipication:",product)
+print("Division:",division)
