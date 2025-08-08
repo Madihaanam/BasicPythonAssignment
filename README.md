@@ -19,3 +19,11 @@ The script takes first name and last name as input and displays the welcome mess
 Enter your first name:Madiha
 Enter your second name:Anam
 Hello, Madiha Anam ! Welcome to the python program.
+## How to Run These Scripts
+1. Download the .py files or clone the repository.
+2. Open terminal or command prompt.
+3. Run the scripts using:
+python task1.py
+python task2.py
+## Author
+Madiha Anam
