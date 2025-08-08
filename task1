@@ -1,5 +1,5 @@
 X=int(input("Enter the first number:"))
-Y=int(input("Enter the secoind number:"))
+Y=int(input("Enter the second number:"))
 sum=X+Y
 difference=X-Y
 product=X*Y
