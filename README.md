@@ -11,7 +11,7 @@ Enter the first number:5
 Enter the second number:10
 Addition: 15
 Difference: -5
-Multipication: 50
+Multiplication: 50
 Division: 0.5
 ## Task 2: Greetings to user 
 The script takes first name and last name as input and displays the welcome message.
