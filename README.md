@@ -8,7 +8,7 @@ The input takes two numbers as input and performs:
 -Division
 ### Example Ouput
 Enter the first number:5
-Enter the secoind number:10
+Enter the second number:10
 Addition: 15
 Difference: -5
 Multipication: 50
